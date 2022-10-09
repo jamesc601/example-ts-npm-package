@@ -1,0 +1,25 @@
+{
+  "name": "example-ts-npm-package",
+  "version": "0.0.1",
+  "description": "An example TypeScript package",
+   "main": "dist/index.js",
+   "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesc601/example-ts-npm-package.git"
+  },
+  "keywords": [],
+  "author": "James Coates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesc601/example-ts-npm-package/issues"
+  },
+  "homepage": "https://github.com/jamesc601/example-ts-npm-package#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
