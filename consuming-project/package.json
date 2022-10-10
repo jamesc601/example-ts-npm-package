@@ -15,7 +15,7 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "example-ts-npm-package": "0.0.2",
-    "local-package": "file:../local-packages/example-vue-npm-package_local.tgz"
+    "@jamescoates/example-ts-npm-package": "0.0.3",
+    "local-package": "file:../local-packages/example-ts-npm-package_local.tgz"
   }
 }
