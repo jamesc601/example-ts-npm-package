@@ -1,4 +1,4 @@
-import { message } from '@jamescoates/example-ts-npm-package';
+import { message } from 'example-ts-npm-package-myget';
 import { message as localPackageMessage } from 'local-package';
 
 console.log('*********************************');
