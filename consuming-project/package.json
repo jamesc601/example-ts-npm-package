@@ -16,6 +16,5 @@
   },
   "dependencies": {
     "@jamescoates/example-ts-npm-package-verdaccio": "0.0.3"
-
   }
 }
