@@ -1,6 +1,6 @@
 {
   "name": "@jamescoates/example-ts-npm-package-verdaccio",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An example TypeScript package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
