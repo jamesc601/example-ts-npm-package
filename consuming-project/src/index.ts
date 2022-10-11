@@ -1,4 +1,4 @@
-import { message } from '@jamescoates/example-ts-npm-package';
+import { message } from '@jamescoates/example-ts-npm-package-verdaccio';
 import { message as localPackageMessage } from 'local-package';
 
 console.log('*********************************');

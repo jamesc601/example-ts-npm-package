@@ -3,3 +3,7 @@ tsconfig.json
 tslint.json
 .prettierrc
 local-packages
+node_modules
+consuming-project
+.gitattributes
+README.md
