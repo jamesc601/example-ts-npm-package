@@ -15,7 +15,7 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "@jamescoates/example-ts-npm-package": "0.0.3",
+    "@jamescoates/example-ts-npm-package": "0.0.4",
     "local-package": "file:../local-packages/example-ts-npm-package_local.tgz"
   }
 }
