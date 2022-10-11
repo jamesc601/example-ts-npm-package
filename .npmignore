@@ -6,4 +6,3 @@ local-packages
 node_modules
 consuming-project
 .gitattributes
-README.md
